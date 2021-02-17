@@ -142,7 +142,7 @@ a:visited{
   }
   article{
     height: auto;
-    min-height:90%;
+    min-height:75%;
   }
   #test{
     font-size:35px;
